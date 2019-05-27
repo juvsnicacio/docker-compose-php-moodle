@@ -19,7 +19,7 @@ services:
                 restart: always
                 environment:
                         MYSQL_ROOT_PASSWORD: root
-                        MYSQL_DATABASE: test_db
+                        MYSQL_DATABASE: moodle
                         MYSQL_USER: devuser
                         MYSQL_PASSWORD: devpass
                 ports:

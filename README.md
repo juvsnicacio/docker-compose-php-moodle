@@ -4,3 +4,5 @@
  ```sh
   chmod 777 -R www/
   ```
+
+* Moodle 3.5: https://download.moodle.org/releases/security/

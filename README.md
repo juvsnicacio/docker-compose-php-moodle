@@ -5,7 +5,7 @@
   chmod 777 -R www/
   ```
 
-* Configurar php.ini, no repositório 
+* Configurar php.ini, no repositório **/usr/local/etc/php/**
  ```sh
   cp php.ini-development php.ini
   ```

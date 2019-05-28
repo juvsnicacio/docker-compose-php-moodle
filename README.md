@@ -9,5 +9,9 @@
  ```sh
   cp php.ini-development php.ini
   ```
+* no **php.ini** alterar o limite de upload :
+- upload_max_filesize 100M
+- post_max_size 100M
+
   
 * Moodle 3.5: https://download.moodle.org/releases/security/

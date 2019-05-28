@@ -5,4 +5,9 @@
   chmod 777 -R www/
   ```
 
+* Configurar php.ini, no repositório 
+ ```sh
+  cp php.ini-development php.ini
+  ```
+  
 * Moodle 3.5: https://download.moodle.org/releases/security/

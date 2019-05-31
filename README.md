@@ -14,6 +14,15 @@
 upload_max_filesize 100M
 post_max_size 100M
   ```
+* no **etc/aoache2/apache2.conf** add 
+```sh
+<Files ~ "^\.ht">
+    Order allow,deny
+    Deny from all
+AcceptPathInfo On
+</Files>
+  ```
+
 
   
 * Moodle 3.5: https://download.moodle.org/releases/security/

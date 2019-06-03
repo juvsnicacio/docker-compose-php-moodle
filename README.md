@@ -25,7 +25,7 @@ AcceptPathInfo On
 * Moodle 3.5: https://download.moodle.org/releases/security/
 
 
-*dentro da pasta theme
+* Dentro da pasta **moodle/theme**
 ```sh
 git clone https://github.com/CoticEaDIFRN/moodle_theme_ledor.git ledor
 sudo chmod 777 -R ledor/

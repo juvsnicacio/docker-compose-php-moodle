@@ -1,4 +1,4 @@
-### Ambiente docker-compose Moodle 3.5
+### Ambiente docker-compose Moodle 3.5 + Mysql
 
 * Para instalação é necessário alterar a permissão da pasta **var/www**:
  ```sh
